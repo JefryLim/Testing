@@ -30,7 +30,7 @@ function Login() {
                     <Col>
                         <Row>
                             <Col>
-                                <h3>Bank Sinarmas</h3>
+                                <h3>Bank Sinarmas siapa kau</h3>
                                 <br />
                                 <input type="text" placeholder="Company Code" style={tampilanInput}></input>
                                 <br />
