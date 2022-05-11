@@ -30,7 +30,7 @@ function Login() {
                     <Col>
                         <Row>
                             <Col>
-                                <h3>Bank Sinarmas Louis</h3>
+                                <h3>Bank Sinarmas</h3>
                                 <br />
                                 <input type="text" placeholder="Company Code" style={tampilanInput}></input>
                                 <br />
@@ -40,7 +40,7 @@ function Login() {
                                 <br />
                                 <div class="form-floating" >
                                     <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com" style={{borderRight: "none", borderTop: "none", borderLeft: "none"}}/>
-                                        <label for="floatingInput">Emailsssss address</label>
+                                        <label for="floatingInput">Email address</label>
                                 </div>
                                 <br />
                                 {/* <Button variant="danger">
